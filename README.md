@@ -1,2 +1,2 @@
-# Proyecto-Avion-QT
-Segunda parte del proyecto de la gestión de un avión en C. Se corresponde con la parte de código de QT
+# GITT-P1-Qt-2021
+Código base de la aplicación Qt para la Práctica 1

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/PITCH.png</file>
+        <file>img/Broken-Glass-PNG-Image-Transparent.png</file>
+    </qresource>
+</RCC>
